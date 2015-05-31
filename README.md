@@ -2,7 +2,7 @@
 A turn-based pvp game where two players fight each other with procedurally generated units on an isometric tile map.
 
 
-Requires XNA game studio 4.0 to be compiled. For visual studio 2012, the XNA 4.0 Refresh, which contains all the dependencies for it, can be found at https://mxa.codeplex.com/releases/view/117564
+Requires XNA game studio 4.0 to be compiled. For visual studio 2012, XNA 4.0 Refresh, which contains all the dependencies for it, can be used (https://mxa.codeplex.com/releases/view/117564).
 
 For running the game, Host IP will have to be changed in line number 130 in Game1.cs. If the two instances of the game are run on the same network, it should work without any changes by auto discovery.
 
